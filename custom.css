@@ -1,0 +1,34 @@
+.color1{
+    background-color: rgb(0, 139, 139);
+    height: 130px;
+    color: white;
+}
+.color2{
+    background-color: rgb(0, 158, 158);
+}
+.color3{
+    background-color: rgb(220, 220, 220);
+    border-radius: 5%;
+    height: 580px;
+}
+.color4{
+    background-color: rgb(245, 245, 245);
+    border-radius: 5%;
+}
+.centered{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    padding-left: 35px;
+}
+.centered2{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    font-size: 32px;
+  
+}
+.txt1{
+    font-weight: 600;
+    font-size: 18px;
+}
